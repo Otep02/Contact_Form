@@ -22,8 +22,8 @@ This challemge makes me think so hard, as a beginner im having a hard time to un
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/contact-form-challenge-sogtCEKhqs))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://otep02.github.io/Contact_Form/))
+- Solution URL: [(https://www.frontendmentor.io/solutions/contact-form-challenge-sogtCEKhqs)]
+- Live Site URL: [(https://otep02.github.io/Contact_Form/)]
 
 
 ### Built with
